@@ -1,9 +1,5 @@
 # TaxWebApp
 
-
-[Project Page](https://github.com/paysonblackwell/TaxWebApp/projects/1): For details about stuff to work on?
-
-
 **Basic Goals:**
 * View information from database in easy-to-read tables.
 * Can select a row to edit information or add a new row.
